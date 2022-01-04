@@ -1,0 +1,35 @@
+h1{
+    color:#ffffff;
+}
+h2{
+    color:#ffffff;
+}
+.header{
+    background-color: #888888;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: #505050;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column
+}
+
+.footer{
+    display:flex;
+    justify-content: start;
+    
+
+}
+p,h2{
+    text-align: start;
+    font-style: italic;
+    color: #ffffff;
+    flex-direction: column
+
+}
+body{
+    background-color: #505050;
+}
